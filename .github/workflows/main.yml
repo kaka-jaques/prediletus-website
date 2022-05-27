@@ -15,7 +15,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.0
       with:
         server: ftp.prediletus.net.br
-        port: 22
         username: prediletus
         password: Power852
-        server-dir: /home/prediletus/www/
