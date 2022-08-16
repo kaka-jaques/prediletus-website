@@ -1,9 +1,13 @@
-.corpo{
-    height: fit-content;
+#logo{
+    width: 200px;
 }
-.corpo h1{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+header a{
+    color: white;
+    text-decoration: none;
+    
 }
-.about{
-    margin-top: 500px;
+header .col-1{
+    text-align: center;
+    margin-left: 40px;
+    padding-top: 30px;
 }
